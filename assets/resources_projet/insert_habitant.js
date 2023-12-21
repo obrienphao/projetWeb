@@ -5,13 +5,25 @@
 function Insert_habitant(){
 
     return(
-        <>
-        <di>
-            <h1>
-                Insersion de nouvel habitant
-            </h1>
-        </di>
-        </>
+        <form onSubmit={handleSubmit}>
+        <div>
+          <label>
+            Nom :
+            <input type="text" name="nom"
+              value={nom} onChange={(e) => setNom(e.target.value)
+              }
+            />
+          </label>
+          <label>
+            Prenom :
+            <input type="text" name="prenom"
+              value={prenom} onChange={(e) => setPrenom(e.target.value)
+              }
+            />
+          </label>
+        </div>
+        <input type="submit" value="Envoyer" />
+      </form>
     );
 }
 

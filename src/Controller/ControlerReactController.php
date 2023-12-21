@@ -16,4 +16,13 @@ class ControlerReactController extends AbstractController
             
         ]);
     }
+
+    #[Route('/controler/search_habitant', name: 'app_controle_search')]
+    public function search(): Response
+    {
+        return $this->render('controler_react/index.html.twig', [
+            'controller_name' => 'ControlerReactController',
+            
+        ]);
+    }
 }

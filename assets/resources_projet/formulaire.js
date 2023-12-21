@@ -1,4 +1,5 @@
-import { Composant } from '../composant';
+//import { Composant } from '../composant';
+import { Header } from '../resources_projet/header'
 import React, { useState } from 'react';
 
 
@@ -37,7 +38,17 @@ function Formulaire() {
   return (
 
     <div>
-        <Composant/>
+      <div>
+        <ul>
+          <a href=""> Insersion habitant</a>
+        </ul>
+        <ul>
+          <a href="search_habitant"> Recherche</a>
+        </ul>
+
+
+      </div>
+
 
       <form onSubmit={handleSubmit}>
         <div>

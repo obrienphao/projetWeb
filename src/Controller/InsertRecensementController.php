@@ -26,9 +26,6 @@ class InsertRecensementController extends AbstractController
         //Injection 
         $em->persist($habitant);
         $em->flush();
-
-
-
         return $this->render('insert_recensement/index.html.twig', [
             'controller_name' => 'InsertRecensementController',
         ]);

@@ -15,7 +15,9 @@ return [
         '/_profiler/xdebug' => [[['_route' => '_profiler_xdebug', '_controller' => 'web_profiler.controller.profiler::xdebugAction'], null, null, null, false, false, null]],
         '/_profiler/open' => [[['_route' => '_profiler_open_file', '_controller' => 'web_profiler.controller.profiler::openAction'], null, null, null, false, false, null]],
         '/controler/react' => [[['_route' => 'app_controler_react', '_controller' => 'App\\Controller\\ControlerReactController::index'], null, null, null, false, false, null]],
-        '/test/cours' => [[['_route' => 'app_test_cours', '_controller' => 'App\\Controller\\TestCoursController::index'], null, null, null, false, false, null]],
+        '/controler/search_habitant' => [[['_route' => 'app_controle_search', '_controller' => 'App\\Controller\\ControlerReactController::search'], null, null, null, false, false, null]],
+        '/insert/recensement' => [[['_route' => 'app_insert_recensement', '_controller' => 'App\\Controller\\InsertRecensementController::index'], null, null, null, false, false, null]],
+        '/search/recensement' => [[['_route' => 'app_search_recensement', '_controller' => 'App\\Controller\\SearchRecensementController::index'], null, null, null, false, false, null]],
     ],
     [ // $regexpList
         0 => '{^(?'

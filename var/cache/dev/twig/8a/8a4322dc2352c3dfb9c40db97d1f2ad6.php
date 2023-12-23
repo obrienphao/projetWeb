@@ -990,6 +990,6 @@ class __TwigTemplate_7c4797c44858c42a2eb1648aaa13bfee extends Template
         </table>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/config.html.twig", "/home/electropro/Documents/symfProjet/tp2/vendor/symfony/web-profiler-bundle/Resources/views/Collector/config.html.twig");
+", "@WebProfiler/Collector/config.html.twig", "/home/electropro/projetWeb/vendor/symfony/web-profiler-bundle/Resources/views/Collector/config.html.twig");
     }
 }

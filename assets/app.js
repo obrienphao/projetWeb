@@ -13,14 +13,12 @@ import './styles/app.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-
-import {Composant} from './composant.js';
 import {Formulaire} from './resources_projet/formulaire.js'
 
 registerReactControllerComponents(require.context('./react/controllers', true, /\.(j|t)sx?$/));
 
 const root = ReactDOM.createRoot(
-    document.getElementById('composant') //as HTMLElement
+    document.getElementById('recensement-composant') //as HTMLElement
 );
 
 

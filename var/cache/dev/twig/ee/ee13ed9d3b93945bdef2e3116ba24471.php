@@ -977,6 +977,6 @@ class __TwigTemplate_0548eb58f01cafe20b4541a908934eb0 extends Template
         {% endautoescape %}</script>
     </div>
 {% endmacro %}
-", "@WebProfiler/Collector/time.html.twig", "/home/electropro/Documents/symfProjet/tp2/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
+", "@WebProfiler/Collector/time.html.twig", "/home/electropro/projetWeb/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
     }
 }

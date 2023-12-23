@@ -1630,6 +1630,6 @@ $context["voter_detail"], "vote", [], "array", false, false, false, 452) == twig
         </div>
     {% endif %}
 {% endblock %}
-", "@Security/Collector/security.html.twig", "/home/electropro/Documents/symfProjet/tp2/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
+", "@Security/Collector/security.html.twig", "/home/electropro/projetWeb/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
     }
 }

@@ -1837,6 +1837,6 @@ class __TwigTemplate_2b1a08b2f2a99a499b6a72c755f0c04e extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/home/electropro/Documents/symfProjet/tp2/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/electropro/projetWeb/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

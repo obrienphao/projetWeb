@@ -1,5 +1,4 @@
 //import { Composant } from '../composant';
-import { Header } from '../resources_projet/header'
 import React, { useState } from 'react';
 
 
@@ -18,16 +17,6 @@ function Formulaire() {
     event.preventDefault();
 
     alert(`Formulaire soumit...`);
-
-    /*InsertToBDD(
-      nom,
-      prenom,
-      adresse,
-      codePostal,
-      sex,
-      dateDeNaissance,
-      email
-    )*/
 
   }
   const handleChange = (event) => {

@@ -220,3 +220,5 @@ a11eb6,127.0.0.1,GET,http://127.0.0.1:8000/insert/recensement,1703175555,eef7fd,
 eef7fd,127.0.0.1,GET,http://127.0.0.1:8000/insert/recensement,1703175555,,404
 04d199,127.0.0.1,GET,http://127.0.0.1:8000/controler/search_habitant,1703175778,7f8ad6,404
 7f8ad6,127.0.0.1,GET,http://127.0.0.1:8000/controler/search_habitant,1703175778,,404
+26f205,127.0.0.1,GET,http://127.0.0.1:43911/,1703311540,,404
+bd1da8,127.0.0.1,GET,http://127.0.0.1:43911/,1703311546,,404

@@ -452,6 +452,6 @@ class __TwigTemplate_d6c55152b7cba3f39739378653d31dae extends Template
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/home/electropro/Documents/symfProjet/tp2/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/home/electropro/projetWeb/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }
